@@ -30,6 +30,6 @@
         return true;
     }
     else {
-        echo '<h1>Erro ao enviar horario!</h1>';
+        echo '<h1>Erro ao enviar dados!</h1>';
     }
 ?>
